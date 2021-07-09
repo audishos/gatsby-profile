@@ -33,5 +33,6 @@ module.exports = {
       },
       __key: "pages",
     },
+    "@chakra-ui/gatsby-plugin"
   ],
 };
