@@ -5,6 +5,7 @@ import { Stack, Badge } from '@chakra-ui/react';
 const IndexPage = () => {
   return (
     <Stack direction="row">
+      <Badge>Default</Badge>
       <Badge colorScheme="primary">Primary</Badge>
       <Badge colorScheme="secondary">Secondary</Badge>
       <Badge colorScheme="tertiary">Tertiary</Badge>
